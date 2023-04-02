@@ -72,14 +72,14 @@ nav.main-nav {
 nav.main-nav a {
 	top: 8px;
 	right: 6px;
-	color: teal;
+	color: #6062a5;
 	font-size: 13px;
 	line-height: 1.35;
 	font-weight: 500;
 	margin-left: 12px;
 }
 nav.main-nav a.cta {
-	background: teal;
+	background: #6062a5;
 	color: #f0f0f0;
 	padding: 6px 14px;
 	border-bottom: none;
@@ -89,7 +89,7 @@ nav.main-nav a.cta {
 
 nav.main-nav a.cta:hover {
 	background: #f0f0f0;
-	color: teal;
+	color: #6062a5;
 	margin-left: 12px;
 }
 
@@ -150,11 +150,11 @@ code.highlighter-rouge {
 
 a {
 	text-decoration: none;
-	color: teal;
+	color: #6062a5;
 }
 
 nav.main-nav a, #footer a, #post-nav a, p a {
-	color: teal;
+	color: #6062a5;
 	font-weight: 500;
 }
 
@@ -344,7 +344,7 @@ footer #wrapper {
 }
 
 #footer a {
-	color: teal;
+	color: #6062a5;
 	font-size: 13px;
 	line-height: 1.35;
 	font-weight: 500;
